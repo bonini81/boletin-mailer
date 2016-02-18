@@ -115,6 +115,7 @@ h3 { font-weight:500; font-size: 27px;}
 h4 { font-weight:500; font-size: 23px;}
 h5 { font-weight:900; font-size: 17px;}
 h6 { font-weight:900; font-size: 14px; text-transform: uppercase; color:#444;}
+h6.rais {color: #fff;}
 
 .collapse { margin:0!important;}
 
