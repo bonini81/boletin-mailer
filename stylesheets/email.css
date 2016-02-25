@@ -142,7 +142,7 @@ ul.sidebar {
 	list-style-type: none;
 }
 ul.sidebar li { display: block; margin:0;}
-ul.sidebar li a {
+ul.sidebar li {
 	text-decoration:none;
 	color: #666;
 	padding:10px 16px;
@@ -187,12 +187,12 @@ ul.sidebar li a h1,ul.sidebar li a h2,ul.sidebar li a h3,ul.sidebar li a h4,ul.s
 
 /* Odds and ends */
 .column {
-	width: 400px;
+	width: 350px;
 	float:left;
 }
 
 .column.right {
-	width: 200px;
+	width: 250px;
 	float:left;
 }
 
